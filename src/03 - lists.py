@@ -11,9 +11,9 @@ Lists can also be iterated over in a very simple manner.
 """
 # 1.
 mylist = []
-mylist.append(1) # [1]
-mylist.append(2) # [1,2]
-mylist.append(3) # [1,2,3]
+mylist.append(1)  # [1]
+mylist.append(2)  # [1,2]
+mylist.append(3)  # [1,2,3]
 print(mylist[0])  # prints 1
 print(mylist[1])  # prints 2
 print(mylist[2])  # prints 3

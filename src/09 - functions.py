@@ -11,7 +11,7 @@ my_function()
 # 2. Receiving arguments
 def my_function_with_args(username, greeting):
     print("Hello, %s , From My Function!, I wish you %s" %
-          (username, greeting))
+        (username, greeting))
 
 my_function_with_args("my_username_is_awesome", "Hi!")
 

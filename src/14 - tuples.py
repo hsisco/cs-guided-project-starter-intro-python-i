@@ -27,12 +27,12 @@ print(thistuple[-4:-1])
 # 6. iterating
 thistuple = ("apple", "banana", "cherry")
 for x in thistuple:
-  print(x)
+    print(x)
 
 # 7. contains?
 thistuple = ("apple", "banana", "cherry")
 if "apple" in thistuple:
-  print("Yes, 'apple' is in the fruits tuple")
+    print("Yes, 'apple' is in the fruits tuple")
 
 # 8. creating a tuple with one item
 thistuple = ("apple",)

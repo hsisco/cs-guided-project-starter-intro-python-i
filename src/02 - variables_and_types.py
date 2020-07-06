@@ -32,7 +32,7 @@ world = "world"
 helloworld = hello + " " + world
 print(helloworld)
 
-# 6. Simultaneous assignemnt
+# 6. Simultaneous assignment
 a, b = 3, 4
 print(a, b)
 
